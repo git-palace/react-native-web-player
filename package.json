@@ -16,16 +16,7 @@
     "gh-pages": "make",
     "dist": "webpack --config webpack/webpack-embed.config.js --sort-assets-by --progress"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dabbott/react-native-web-player.git"
-  },
-  "author": "devinabbott@gmail.com",
   "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/dabbott/react-native-web-player/issues"
-  },
-  "homepage": "https://github.com/dabbott/react-native-web-player#readme",
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.13",
